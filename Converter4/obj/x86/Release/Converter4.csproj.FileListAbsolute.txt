@@ -1,0 +1,22 @@
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Converter4.exe.config
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Converter4.exe
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Converter4.pdb
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Microsoft.DirectX.dll
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Microsoft.DirectX.Direct3D.dll
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Microsoft.DirectX.xml
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Microsoft.DirectX.AudioVideoPlayback.xml
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\x86\Release\Microsoft.DirectX.Direct3D.xml
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.Form1.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.Properties.Resources.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.splash.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.Us.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.csproj.GenerateResource.Cache
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.exe
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\x86\Release\Converter4.pdb
+C:\Users\bbb1\Source\Repos\Alm3rb_Convert_Script\Converter4\bin\x86\Release\Converter4.exe.config
+C:\Users\bbb1\Source\Repos\Alm3rb_Convert_Script\Converter4\obj\x86\Release\Converter4.exe
+C:\Users\bbb1\Source\Repos\Alm3rb_Convert_Script\Converter4\obj\x86\Release\Converter4.pdb
+C:\Users\bbb1\Source\Repos\Alm3rb\Converter4\bin\x86\Release\Converter4.exe.config
+C:\Users\bbb1\Source\Repos\Alm3rb\Converter4\obj\x86\Release\Converter4.exe
+C:\Users\bbb1\Source\Repos\Alm3rb\Converter4\obj\x86\Release\Converter4.pdb

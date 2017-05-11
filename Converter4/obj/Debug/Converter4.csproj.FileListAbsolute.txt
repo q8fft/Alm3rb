@@ -1,0 +1,17 @@
+C:\Users\Study\Desktop\Converter1.0\Source Code\Converter4\obj\Debug\Converter4.pdb
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Converter4.exe.config
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Converter4.exe
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Converter4.pdb
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Microsoft.DirectX.dll
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Microsoft.DirectX.xml
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+E:\emu rom\Source_Code (1)\Source Code\Converter4\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.Form1.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.Properties.Resources.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.splash.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.Us.resources
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.csproj.GenerateResource.Cache
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.exe
+E:\emu rom\Source_Code (1)\Source Code\Converter4\obj\Debug\Converter4.pdb

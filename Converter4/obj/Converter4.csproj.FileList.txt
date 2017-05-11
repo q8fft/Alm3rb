@@ -1,0 +1,14 @@
+bin\Debug\Converter4.exe
+bin\Debug\Converter4.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Converter4.Form1.resources
+obj\Debug\Converter4.Properties.Resources.resources
+obj\Debug\Converter4.csproj.GenerateResource.Cache
+obj\Debug\Converter4.exe
+obj\Debug\Converter4.pdb
+obj\Debug\Converter4.Us.resources
+obj\Debug\Converter4.splash.resources
+bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+bin\Debug\Microsoft.DirectX.dll
+bin\Debug\Microsoft.DirectX.xml
